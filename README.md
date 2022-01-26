@@ -1,4 +1,4 @@
-# Module-4--Diabetes-Classification
+Diabetes-Classification
 # Data 
 
 # Features 
